@@ -1,5 +1,11 @@
 ##### PERSONAL NOTEBOOK GUI ####
 
+#!pip install tkinter
+#!pip install tkintercalendar
+#!pip install beautifulsoup4
+#!pip install requests
+
+
 import random
 from tkinter import *
 from tkinter import messagebox
